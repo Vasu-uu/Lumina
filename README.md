@@ -73,13 +73,3 @@ lumina/
 ├── tailwind.config.js# Tailwind CSS configuration
 └── package.json
 ```
-
-## Platform Support
-
-- Windows (NSIS installer)
-- macOS (DMG)
-- Linux (untested)
-
-## License
-
-MIT
